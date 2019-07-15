@@ -1,0 +1,38 @@
+.bodys{
+    height: 90%;
+    width: 85%;
+    position:fixed;
+    right: 8%;
+    background-color: chocolate;
+}
+#header{
+    height: 5%;
+    width: 100%;
+    background-color:  #b30000
+;
+}
+.btn{ 
+    display: block;
+    position: fixed;
+    right: 11%;
+    top: 5%;
+   color: white;
+    
+    font-family: cursive;
+    top: 1.5%;
+}
+.btn a{
+    background-color: white;
+}
+.post{ 
+    height: 50%;
+    width: 87%;
+    position: absolute;
+    top: 5%;
+    right: 2%;
+    
+}
+#write{
+     background-color: white;
+}
+
